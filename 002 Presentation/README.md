@@ -12,4 +12,5 @@
   - [2025 캡스톤 2 계획발표 - mobabi.pdf](https://github.com/user-attachments/files/23352703/MOBABI_2._.1.pdf)
   - 중간발표자료
   - [2025 캡스톤 2 중간발표 - mobabi.pdf](https://github.com/user-attachments/files/23352673/2.-.mobabi.pdf)
-  - 작품전시회 포스터  
+  - 작품전시회 포스터
+  - [이미지룩-판넬-모바일융합공학과.pdf](https://github.com/user-attachments/files/23687251/-.-.pdf)
